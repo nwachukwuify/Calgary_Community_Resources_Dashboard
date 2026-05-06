@@ -1,6 +1,8 @@
 # Calgary_Community_Resources_Dashboard
 A centralized, interactive platform that brings together essential services across the city into one accessible place.
 Data for Good YYC | Micro Project Cohort 5
+[View Interactive Dashboard Here]([https://example.com](https://app.powerbi.com/view?r=eyJrIjoiYmIwOGUxMDQtNmJkMy00ODNmLWEzOTQtM2VkZjMzMTUwYWRmIiwidCI6IjBhNzVjMjZmLTUxMjEtNDAxNS05MjliLTMyYzRhMjUwZWU1ZCJ9))
+
 ### Project Context
 For many Calgary residents and newcomers, accessing essential services is hindered by fragmented information and language barriers. Support exists, but it is often "hidden" across scattered platforms. As part of Data for Good YYC, our team engineered a centralized, interactive solution to bridge this information gap.
 
